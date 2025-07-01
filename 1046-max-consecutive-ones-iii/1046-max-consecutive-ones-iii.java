@@ -3,28 +3,29 @@ class Solution {
 
         int n = nums.length;
         int maxLen = 0;
+        int zeros = 0;
+        int len = 0;
+        int l = 0;
+        for(int r = 0 ; r < n ; r++){
 
-        for(int i = 0 ; i < n ; i++){
+            if(nums[r] == 0){
+                zeros++;
+            }
 
-            int len = 0;
-            int zeros = 0;
-            for(int j = i ; j < n ; j++){
-
-                if(nums[j] == 0){
-                    zeros++;
+            if(zeros <= k){
+                len = r - l +1;
+            }else{
+                if(nums[l] == 0){
+                    zeros--;
                 }
-
-                if(zeros <= k){
-                    len = j -i + 1;
-                }else{
-                    break;
-                }
+                l++;
             }
 
             maxLen = Math.max(maxLen , len);
+        }
             
 
-        }
+        
 
         return maxLen;
         
