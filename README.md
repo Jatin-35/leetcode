@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jatin-35/leetcode/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatin-35/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jatin-35/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jatin-35/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jatin-35/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jatin-35/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Hash Table
@@ -56,8 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jatin-35/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jatin-35/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jatin-35/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Counting
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Jatin-35/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jatin-35/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
