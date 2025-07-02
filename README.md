@@ -55,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatin-35/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Jatin-35/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jatin-35/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jatin-35/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3617-find-the-original-typed-string-i](https://github.com/Jatin-35/leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Jatin-35/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Jatin-35/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jatin-35/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jatin-35/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Jatin-35/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
