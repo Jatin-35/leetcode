@@ -84,4 +84,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Jatin-35/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jatin-35/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Jatin-35/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+## Math
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jatin-35/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jatin-35/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jatin-35/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jatin-35/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
