@@ -7,7 +7,7 @@ class Solution {
 
         int l = 0 ; int r = 0 ; int minLen = Integer.MAX_VALUE ; int startIndex = -1;
         int count = 0;
-        int []hash = new int[256];
+        int []hash = new int[128];
 
         
         for(int i = 0 ; i < t.length() ; i++){
