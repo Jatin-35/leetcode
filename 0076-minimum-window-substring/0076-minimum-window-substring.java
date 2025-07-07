@@ -1,40 +1,41 @@
 class Solution {
     public String minWindow(String s, String t) {
-        if (s.length() < t.length()) return "";
 
-        int[] targetFreq = new int[128]; // ASCII size
-        for (char c : t.toCharArray()) {
-            targetFreq[c]++;
+        if(s.length() < t.length()){
+            return "";
         }
 
-        int left = 0, right = 0;
-        int minLen = Integer.MAX_VALUE;
-        int start = 0;
-        int count = t.length();
+        int l = 0 ; int r = 0 ; int minLen = Integer.MAX_VALUE ; int startIndex = -1;
+        int count = 0;
+        int []hash = new int[256];
 
-        while (right < s.length()) {
-            char rChar = s.charAt(right);
-            if (targetFreq[rChar] > 0) {
-                count--;
-            }
-            targetFreq[rChar]--;
-            right++;
-
-            while (count == 0) {
-                if (right - left < minLen) {
-                    minLen = right - left;
-                    start = left;
-                }
-
-                char lChar = s.charAt(left);
-                targetFreq[lChar]++;
-                if (targetFreq[lChar] > 0) {
-                    count++;
-                }
-                left++;
-            }
+        
+        for(int i = 0 ; i < t.length() ; i++){
+            hash[t.charAt(i)]++;
         }
 
-        return minLen == Integer.MAX_VALUE ? "" : s.substring(start, start + minLen);
+        while(r < s.length()){
+
+            if(hash[s.charAt(r)] > 0) {
+                count++;
+                
+            }
+            hash[s.charAt(r)]--;
+
+            while(count == t.length()){
+
+                if(r - l + 1 < minLen) {
+                    minLen = r-l+1;
+                    startIndex = l;
+                }
+                hash[s.charAt(l)]++;
+                if(hash[s.charAt(l)] > 0) count--; 
+                l++;
+            }
+
+            r++;
+        }
+
+        return startIndex == -1 ? "" : s.substring(startIndex , startIndex + minLen);
     }
 }
