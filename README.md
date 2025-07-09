@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Jatin-35/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Jatin-35/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jatin-35/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Jatin-35/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jatin-35/leetcode/tree/master/0011-container-with-most-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jatin-35/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Jatin-35/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Jatin-35/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jatin-35/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jatin-35/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Jatin-35/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
 |  |
 | ------- |
