@@ -3,17 +3,16 @@ class Solution {
         
         int n = nums.length;
 
-        Map<Integer , Integer> map = new HashMap<>();
+        Set<Integer> set = new HashSet<>();
 
         for(int i = 0 ; i < n ; i++){
-
-            if(map.containsKey(nums[i])){
+            if(set.contains(nums[i])){
                 return nums[i];
             }
 
-            map.put(nums[i] , map.getOrDefault(nums[i] , 0) + 1 );
+            set.add(nums[i]);
         }
 
-        return 0;
+        return -1;
     }
 }
