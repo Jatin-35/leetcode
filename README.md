@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Jatin-35/leetcode/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Jatin-35/leetcode/tree/master/0076-minimum-window-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jatin-35/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3396-valid-word](https://github.com/Jatin-35/leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Jatin-35/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Jatin-35/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
