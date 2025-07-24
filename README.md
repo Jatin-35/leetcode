@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Jatin-35/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jatin-35/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Jatin-35/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Jatin-35/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jatin-35/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatin-35/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jatin-35/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Jatin-35/leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Jatin-35/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatin-35/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jatin-35/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jatin-35/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jatin-35/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jatin-35/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Jatin-35/leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Jatin-35/leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Jatin-35/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jatin-35/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jatin-35/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
