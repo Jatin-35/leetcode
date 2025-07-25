@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jatin-35/leetcode/tree/master/0011-container-with-most-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Jatin-35/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Jatin-35/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/Jatin-35/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jatin-35/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Jatin-35/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Jatin-35/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Jatin-35/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jatin-35/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Jatin-35/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/Jatin-35/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Jatin-35/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/Jatin-35/leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Jatin-35/leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jatin-35/leetcode/tree/master/0002-add-two-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jatin-35/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jatin-35/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/Jatin-35/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jatin-35/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Jatin-35/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Jatin-35/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
