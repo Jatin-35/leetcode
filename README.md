@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/Jatin-35/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jatin-35/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Jatin-35/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Jatin-35/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Jatin-35/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/Jatin-35/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jatin-35/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
