@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Jatin-35/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Jatin-35/leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Jatin-35/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/Jatin-35/leetcode/tree/master/0443-string-compression) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jatin-35/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jatin-35/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Jatin-35/leetcode/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Jatin-35/leetcode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Jatin-35/leetcode/tree/master/0205-isomorphic-strings) |
+| [0443-string-compression](https://github.com/Jatin-35/leetcode/tree/master/0443-string-compression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Jatin-35/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Jatin-35/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jatin-35/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
