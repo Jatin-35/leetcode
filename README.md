@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jatin-35/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Jatin-35/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Jatin-35/leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Jatin-35/leetcode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Jatin-35/leetcode/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/Jatin-35/leetcode/tree/master/0443-string-compression) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jatin-35/leetcode/tree/master/0020-valid-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Jatin-35/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Bucket Sort
 |  |
