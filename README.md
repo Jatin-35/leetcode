@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jatin-35/leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Jatin-35/leetcode/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jatin-35/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jatin-35/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jatin-35/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Jatin-35/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Jatin-35/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jatin-35/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Jatin-35/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jatin-35/leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Jatin-35/leetcode/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jatin-35/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Jatin-35/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
