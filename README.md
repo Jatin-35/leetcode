@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Jatin-35/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Jatin-35/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jatin-35/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Jatin-35/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2479-meeting-rooms-iii](https://github.com/Jatin-35/leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Sorting
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Jatin-35/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Jatin-35/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Jatin-35/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Jatin-35/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3396-valid-word](https://github.com/Jatin-35/leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Jatin-35/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Jatin-35/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Jatin-35/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Jatin-35/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Jatin-35/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Jatin-35/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Prefix Sum
 |  |
 | ------- |
