@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jatin-35/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jatin-35/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jatin-35/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/Jatin-35/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatin-35/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Jatin-35/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Jatin-35/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jatin-35/leetcode/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/Jatin-35/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Jatin-35/leetcode/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jatin-35/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jatin-35/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Jatin-35/leetcode/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Jatin-35/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Jatin-35/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Jatin-35/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Jatin-35/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Jatin-35/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Jatin-35/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Jatin-35/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
