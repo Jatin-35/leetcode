@@ -9,11 +9,11 @@ class Solution {
         }
 
         PriorityQueue<Map.Entry<Character , Integer>> queue = new PriorityQueue<>(
-            (a,b) -> a.getValue() - b.getValue()
+            (a,b) -> b.getValue() - a.getValue()
         );
 
         queue.addAll(map.entrySet());
-
+        
         StringBuilder sb = new StringBuilder();
 
         while(!queue.isEmpty()){
@@ -24,7 +24,7 @@ class Solution {
             while(val-- > 0 ) sb.append(ch);
         }
 
-        return sb.reverse().toString();
+        return sb.toString();
 
     }
 
