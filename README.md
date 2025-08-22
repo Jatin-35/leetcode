@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatin-35/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jatin-35/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Jatin-35/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1013-fibonacci-number](https://github.com/Jatin-35/leetcode/tree/master/1013-fibonacci-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Jatin-35/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Jatin-35/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Jatin-35/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Jatin-35/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Jatin-35/leetcode/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jatin-35/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1013-fibonacci-number](https://github.com/Jatin-35/leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jatin-35/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jatin-35/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Jatin-35/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jatin-35/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Jatin-35/leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Jatin-35/leetcode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jatin-35/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Jatin-35/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Jatin-35/leetcode/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Jatin-35/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Linked List
 |  |
