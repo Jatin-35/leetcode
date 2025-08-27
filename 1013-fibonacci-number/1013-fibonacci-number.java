@@ -15,6 +15,6 @@ class Solution {
         
         if(dp[n] != -1) return dp[n];
 
-        return dp[n] = fib(n-1) + fib(n-2);
+        return dp[n] = helper(n-1 , dp) + helper(n-2 , dp);
     }
 }
