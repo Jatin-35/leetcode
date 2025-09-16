@@ -1,5 +1,5 @@
-# Write your MySQL query statement below
+/* Write your PL/SQL query statement below */
 
 select unique_id , name
-from Employees as e left join EmployeeUNI as uni
+from Employees  e left join EmployeeUNI  uni
 on e.id = uni.id;
